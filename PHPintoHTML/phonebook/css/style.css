@@ -1,0 +1,70 @@
+body
+{
+	margin : 5px;
+}
+
+#info
+{
+	position : absolute;
+	z-index : 10;
+	background-color : yellow;
+	width : 300px;
+	height : 200px;
+	box-shadow : 2px 2px 5px silver;
+	display : none;
+}
+
+#textInfo , #photo
+{
+	width : 50%;
+	float : left;
+}
+div
+{
+	width:400px;
+}
+
+#pro
+{
+	width : 50px;
+	height : 50px;
+}
+
+#delete
+{
+	width : 20px;
+	height : 20px;
+}
+
+#edit
+{
+	width : 20px;
+	height : 20px;
+}
+
+td
+{
+	padding : 10px;
+}
+
+#form
+{
+	float : right ;
+}
+/*
+#btnLogout
+{
+	background-color: red;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	width: 20%;
+	
+}
+#btnLogout:hover
+{
+	color : gold;
+}
+*/

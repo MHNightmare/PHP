@@ -1,0 +1,18 @@
+{
+    "name": "m.h/task-manager",
+    "description": "todo list",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "MH\\TaskManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad Hosein",
+            "email": "e.mohamadhosein@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
